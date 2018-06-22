@@ -1,0 +1,4 @@
+$(function(){
+    $.cookie.json = true;
+    $
+});
